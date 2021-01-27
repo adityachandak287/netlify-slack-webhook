@@ -1,3 +1,3 @@
 # Netlify Slack Webhook
 
-Get around Netlify/Slack premium integration by using webhooks to get Netlify build status updates on Slack
+Get around Netlify and Slack premium integrations by getting netlify build notifications sent to your slack channels using webhooks.
