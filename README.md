@@ -62,4 +62,4 @@ Note: You will have to do this for every event you want to get a notification fo
 
 This is what the messages look like in Slack.
 
-<img src="media/messages.PNG" alt="messages-sample" width="320px" />
+<img src="media/messages.png" alt="messages-sample" width="320px" />
