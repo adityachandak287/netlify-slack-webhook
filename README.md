@@ -12,7 +12,7 @@ This project helps you get build notifications from netlify into your slack chan
 
 Want to use this project? Follow these steps:
 
-#### Step 1: `Setup Slack App to accept incoming webhooks`
+### `Step 1`: **Setup Slack App to accept incoming webhooks**
 
 Go to https://api.slack.com/apps
 
@@ -26,7 +26,7 @@ Add new webhook to workspace -> Select the `channel` you wish to receive message
 
 Make note of the `Webhook URL`, we will need it in the later steps.
 
-#### Step 2: `Deploy AWS Lambda Function`
+### `Step 2`: **Deploy AWS Lambda Function**
 
 I used [Serverless](https://www.serverless.com/) to package and deploy the function. You can use your service of choice.
 
@@ -46,7 +46,7 @@ Note:
 - Make sure your AWS credentials are set correctly.
 - You can change the way the messages look by referring to https://api.slack.com/messaging/composing
 
-#### Step 3: `Setup outgoing Webhooks on Netlify`
+### `Step 3`: **Setup outgoing Webhooks on Netlify**
 
 Go to your site on netlify.
 

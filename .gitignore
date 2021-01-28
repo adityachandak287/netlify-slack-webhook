@@ -10,3 +10,7 @@ jspm_packages
 .env
 
 body.json
+
+media/diagram.drawio
+media/architecture-diagram-transparent.png
+media/messages-og.PNG
