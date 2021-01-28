@@ -1,5 +1,5 @@
 # Netlify Slack Webhook
-<img src="https://img.shields.io/badge/serverless-2.17.0-FD5750?style=flat&logo=serverless" alt="Serverless badge" /> <img src="https://img.shields.io/badge/AWS-Lambda-orange?style=flat&logo=amazon-aws" alt="AWS Lambda badge" /> <img src="https://img.shields.io/badge/Netlify--00C7B7?style=flat&logo=netlify" alt="Netlify badge" />
+<img src="https://img.shields.io/badge/serverless-2.17.0-FD5750?style=flat&logo=serverless" alt="Serverless badge" /> <img src="https://img.shields.io/badge/AWS-Lambda-orange?style=flat&logo=amazon-aws" alt="AWS Lambda badge" /> <img src="https://img.shields.io/badge/Netlify--00C7B7?style=flat&logo=netlify" alt="Netlify badge" /> <img src="https://img.shields.io/badge/Slack--4A154B?style=flat&logo=slack" alt="Slack badge" />
 
 
 Get around Netlify and Slack premium integrations by getting netlify build notifications sent to your slack channels using webhooks.
